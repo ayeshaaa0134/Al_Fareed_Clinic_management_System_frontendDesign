@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{35D89304-05AD-42C3-885C-872ADEE6B980}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AFC</RootNamespace>
+    <AssemblyName>AFC</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="splash %28f2%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splash %28f2%29.Designer.cs">
+      <DependentUpon>splash %28f2%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication %28f3%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication %28f3%29.Designer.cs">
+      <DependentUpon>Authentication %28f3%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin %28f7%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin %28f7%29.Designer.cs">
+      <DependentUpon>admin %28f7%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="splash %28f2%29.resx">
+      <DependentUpon>splash %28f2%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication %28f3%29.resx">
+      <DependentUpon>Authentication %28f3%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin %28f7%29.resx">
+      <DependentUpon>admin %28f7%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2025-03-10_205304-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conference-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\faded_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor-2-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-wheelchair-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard-8-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash-receiving-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2025-03-26_105520-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multiply-2-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\[CITYPNG.COM]HD Add Insert White Icon Symbol Transparent Background - 1000x1000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator-5121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upload.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
