@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 using Recepioant;
-using database_project;
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 namespace AFC
 {
@@ -63,13 +63,13 @@ namespace AFC
                         MessageBox.Show("\t\tLogin Succesful\t\t");
 
                         string role = reader["Role"].ToString();
-                        int doctorId = Convert.ToInt32(reader["user_id"]);
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
                         if (role.Contains("Admin"))
                         {
                             Form7 form7 = new Form7();
                             form7.ShowDialog();
                             this.Close();
-
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
                         }
                         if (role.Contains("Receptionist"))
                         {
@@ -81,9 +81,8 @@ namespace AFC
                         }
                         if (role.Contains("Doctor"))
                         {
-                            Form1 form1 = new Form1(doctorId);
-                            form1.ShowDialog();
-                            this.Hide();
+
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
                         }
                     }
                     else
@@ -108,9 +107,9 @@ namespace AFC
         {
             reg.Show();
             reg.BringToFront();
-            int a;
         }
-        
+
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
         private void panel16_Paint(object sender, PaintEventArgs e)
         {
 

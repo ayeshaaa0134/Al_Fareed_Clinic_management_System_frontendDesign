@@ -28,9 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel3 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
@@ -45,20 +46,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.dashboard = new System.Windows.Forms.Panel();
-            this.pres_edit = new System.Windows.Forms.Panel();
-            this.panel11 = new System.Windows.Forms.Panel();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.panel30 = new System.Windows.Forms.Panel();
-            this.pres_edit_form = new System.Windows.Forms.RichTextBox();
-            this.save = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
-            this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
-            this.panel32 = new System.Windows.Forms.Panel();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.panel33 = new System.Windows.Forms.Panel();
-            this.searchbtn = new System.Windows.Forms.PictureBox();
-            this.search = new System.Windows.Forms.TextBox();
-            this.results = new System.Windows.Forms.RichTextBox();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.doc_info = new System.Windows.Forms.TextBox();
             this.panel4 = new System.Windows.Forms.Panel();
             this.listView2 = new System.Windows.Forms.ListView();
@@ -147,18 +135,27 @@
             this.button11 = new System.Windows.Forms.Button();
             this.label23 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
+            this.pres_edit = new System.Windows.Forms.Panel();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.panel30 = new System.Windows.Forms.Panel();
+            this.save = new System.Windows.Forms.Button();
+            this.button13 = new System.Windows.Forms.Button();
+            this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
+            this.panel32 = new System.Windows.Forms.Panel();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.panel33 = new System.Windows.Forms.Panel();
+            this.searchbtn = new System.Windows.Forms.PictureBox();
+            this.search = new System.Windows.Forms.TextBox();
+            this.pres_edit_form = new System.Windows.Forms.RichTextBox();
+            this.results = new System.Windows.Forms.RichTextBox();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.panel3.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.dashboard.SuspendLayout();
-            this.pres_edit.SuspendLayout();
-            this.panel11.SuspendLayout();
-            this.panel30.SuspendLayout();
-            this.flowLayoutPanel2.SuspendLayout();
-            this.panel32.SuspendLayout();
-            this.panel33.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.searchbtn)).BeginInit();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.panel4.SuspendLayout();
             this.panel10.SuspendLayout();
             this.panel7.SuspendLayout();
@@ -200,6 +197,14 @@
             this.panel19.SuspendLayout();
             this.log.SuspendLayout();
             this.panel29.SuspendLayout();
+            this.pres_edit.SuspendLayout();
+            this.panel11.SuspendLayout();
+            this.panel30.SuspendLayout();
+            this.flowLayoutPanel2.SuspendLayout();
+            this.panel32.SuspendLayout();
+            this.panel33.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.searchbtn)).BeginInit();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.SuspendLayout();
             // 
             // panel3
@@ -352,13 +357,15 @@
             // dashboard
             // 
             this.dashboard.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(216)))), ((int)(((byte)(239)))), ((int)(((byte)(211)))));
+            this.dashboard.Controls.Add(this.pres_edit);
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.dashboard.Controls.Add(this.doc_info);
             this.dashboard.Controls.Add(this.panel4);
             this.dashboard.Controls.Add(this.panel7);
             this.dashboard.Controls.Add(this.pictureBox7);
             this.dashboard.Controls.Add(this.panel5);
             this.dashboard.Controls.Add(this.panel8);
-            this.dashboard.Controls.Add(this.pres_edit);
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.dashboard.Location = new System.Drawing.Point(447, 78);
             this.dashboard.Margin = new System.Windows.Forms.Padding(2);
             this.dashboard.Name = "dashboard";
@@ -366,160 +373,7 @@
             this.dashboard.TabIndex = 63;
             this.dashboard.Paint += new System.Windows.Forms.PaintEventHandler(this.dashboard_Paint);
             // 
-            // pres_edit
-            // 
-            this.pres_edit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(216)))), ((int)(((byte)(239)))), ((int)(((byte)(211)))));
-            this.pres_edit.Controls.Add(this.panel11);
-            this.pres_edit.Controls.Add(this.panel30);
-            this.pres_edit.Controls.Add(this.flowLayoutPanel2);
-            this.pres_edit.Location = new System.Drawing.Point(4, 0);
-            this.pres_edit.Margin = new System.Windows.Forms.Padding(2);
-            this.pres_edit.Name = "pres_edit";
-            this.pres_edit.Size = new System.Drawing.Size(1449, 863);
-            this.pres_edit.TabIndex = 95;
-            this.pres_edit.Paint += new System.Windows.Forms.PaintEventHandler(this.pres_edit_Paint);
-            // 
-            // panel11
-            // 
-            this.panel11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(173)))), ((int)(((byte)(155)))));
-            this.panel11.Controls.Add(this.textBox1);
-            this.panel11.Location = new System.Drawing.Point(392, 12);
-            this.panel11.Margin = new System.Windows.Forms.Padding(2);
-            this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(302, 64);
-            this.panel11.TabIndex = 3;
-            // 
-            // textBox1
-            // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(36, 16);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(197, 39);
-            this.textBox1.TabIndex = 0;
-            this.textBox1.Text = "Prescription";
-            // 
-            // panel30
-            // 
-            this.panel30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(210)))), ((int)(((byte)(179)))));
-            this.panel30.Controls.Add(this.pres_edit_form);
-            this.panel30.Controls.Add(this.save);
-            this.panel30.Controls.Add(this.button13);
-            this.panel30.Location = new System.Drawing.Point(40, 94);
-            this.panel30.Margin = new System.Windows.Forms.Padding(2);
-            this.panel30.Name = "panel30";
-            this.panel30.Size = new System.Drawing.Size(891, 602);
-            this.panel30.TabIndex = 2;
-            this.panel30.Paint += new System.Windows.Forms.PaintEventHandler(this.panel30_Paint);
-            // 
-            // pres_edit_form
-            // 
-            this.pres_edit_form.Location = new System.Drawing.Point(0, 0);
-            this.pres_edit_form.Name = "pres_edit_form";
-            this.pres_edit_form.Size = new System.Drawing.Size(891, 543);
-            this.pres_edit_form.TabIndex = 5;
-            this.pres_edit_form.Text = "";
-            this.pres_edit_form.TextChanged += new System.EventHandler(this.pres_edit_form_TextChanged);
-            // 
-            // save
-            // 
-            this.save.Location = new System.Drawing.Point(690, 551);
-            this.save.Margin = new System.Windows.Forms.Padding(2);
-            this.save.Name = "save";
-            this.save.Size = new System.Drawing.Size(88, 42);
-            this.save.TabIndex = 4;
-            this.save.Text = "Save";
-            this.save.UseVisualStyleBackColor = true;
-            this.save.Click += new System.EventHandler(this.save_Click);
-            // 
-            // button13
-            // 
-            this.button13.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button13.Location = new System.Drawing.Point(792, 551);
-            this.button13.Margin = new System.Windows.Forms.Padding(2);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(88, 42);
-            this.button13.TabIndex = 3;
-            this.button13.Text = "Print";
-            this.button13.UseVisualStyleBackColor = true;
-            // 
-            // flowLayoutPanel2
-            // 
-            this.flowLayoutPanel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(210)))), ((int)(((byte)(179)))));
-            this.flowLayoutPanel2.Controls.Add(this.panel32);
-            this.flowLayoutPanel2.Controls.Add(this.panel33);
-            this.flowLayoutPanel2.Controls.Add(this.results);
-            this.flowLayoutPanel2.Location = new System.Drawing.Point(944, 34);
-            this.flowLayoutPanel2.Margin = new System.Windows.Forms.Padding(2);
-            this.flowLayoutPanel2.Name = "flowLayoutPanel2";
-            this.flowLayoutPanel2.Size = new System.Drawing.Size(412, 653);
-            this.flowLayoutPanel2.TabIndex = 0;
-            // 
-            // panel32
-            // 
-            this.panel32.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.panel32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(173)))), ((int)(((byte)(155)))));
-            this.panel32.Controls.Add(this.textBox2);
-            this.panel32.Location = new System.Drawing.Point(2, 2);
-            this.panel32.Margin = new System.Windows.Forms.Padding(2);
-            this.panel32.Name = "panel32";
-            this.panel32.Size = new System.Drawing.Size(410, 58);
-            this.panel32.TabIndex = 0;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.textBox2.Location = new System.Drawing.Point(52, 11);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(242, 37);
-            this.textBox2.TabIndex = 1;
-            this.textBox2.Text = "Check Availability";
-            // 
-            // panel33
-            // 
-            this.panel33.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.panel33.BackColor = System.Drawing.Color.White;
-            this.panel33.Controls.Add(this.searchbtn);
-            this.panel33.Controls.Add(this.search);
-            this.panel33.Location = new System.Drawing.Point(2, 64);
-            this.panel33.Margin = new System.Windows.Forms.Padding(2);
-            this.panel33.Name = "panel33";
-            this.panel33.Size = new System.Drawing.Size(410, 58);
-            this.panel33.TabIndex = 2;
-            // 
-            // searchbtn
-            // 
-            this.searchbtn.Image = ((System.Drawing.Image)(resources.GetObject("searchbtn.Image")));
-            this.searchbtn.Location = new System.Drawing.Point(362, 2);
-            this.searchbtn.Margin = new System.Windows.Forms.Padding(2);
-            this.searchbtn.Name = "searchbtn";
-            this.searchbtn.Size = new System.Drawing.Size(46, 42);
-            this.searchbtn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.searchbtn.TabIndex = 3;
-            this.searchbtn.TabStop = false;
-            this.searchbtn.Click += new System.EventHandler(this.searchbtn_Click);
-            // 
-            // search
-            // 
-            this.search.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.search.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.search.Location = new System.Drawing.Point(18, 6);
-            this.search.Margin = new System.Windows.Forms.Padding(2);
-            this.search.Name = "search";
-            this.search.Size = new System.Drawing.Size(340, 37);
-            this.search.TabIndex = 1;
-            this.search.TextChanged += new System.EventHandler(this.search_TextChanged);
-            // 
-            // results
-            // 
-            this.results.Location = new System.Drawing.Point(3, 127);
-            this.results.Name = "results";
-            this.results.Size = new System.Drawing.Size(407, 512);
-            this.results.TabIndex = 6;
-            this.results.Text = "";
-            // 
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             // doc_info
             // 
             this.doc_info.Location = new System.Drawing.Point(278, 39);
@@ -583,17 +437,18 @@
             // 
             // chart1
             // 
-            chartArea1.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            this.chart1.Legends.Add(legend1);
+            chartArea3.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea3);
+            legend3.Name = "Legend1";
+            this.chart1.Legends.Add(legend3);
             this.chart1.Location = new System.Drawing.Point(20, 100);
             this.chart1.Margin = new System.Windows.Forms.Padding(2);
             this.chart1.Name = "chart1";
-            series1.ChartArea = "ChartArea1";
-            series1.Legend = "Legend1";
-            series1.Name = "Series1";
-            this.chart1.Series.Add(series1);
+            series3.ChartArea = "ChartArea1";
+            series3.Legend = "Legend1";
+            series3.Name = "Series1";
+            this.chart1.Series.Add(series3);
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.chart1.Size = new System.Drawing.Size(645, 346);
             this.chart1.TabIndex = 0;
             this.chart1.Text = "chart1";
@@ -1485,6 +1340,161 @@
             this.label22.TabIndex = 61;
             this.label22.Text = "Are you sure you want to log out?";
             // 
+            // pres_edit
+            // 
+            this.pres_edit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(216)))), ((int)(((byte)(239)))), ((int)(((byte)(211)))));
+            this.pres_edit.Controls.Add(this.panel11);
+            this.pres_edit.Controls.Add(this.panel30);
+            this.pres_edit.Controls.Add(this.flowLayoutPanel2);
+            this.pres_edit.Location = new System.Drawing.Point(4, 0);
+            this.pres_edit.Margin = new System.Windows.Forms.Padding(2);
+            this.pres_edit.Name = "pres_edit";
+            this.pres_edit.Size = new System.Drawing.Size(1449, 863);
+            this.pres_edit.TabIndex = 95;
+            this.pres_edit.Paint += new System.Windows.Forms.PaintEventHandler(this.pres_edit_Paint);
+            // 
+            // panel11
+            // 
+            this.panel11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(173)))), ((int)(((byte)(155)))));
+            this.panel11.Controls.Add(this.textBox1);
+            this.panel11.Location = new System.Drawing.Point(392, 12);
+            this.panel11.Margin = new System.Windows.Forms.Padding(2);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(302, 64);
+            this.panel11.TabIndex = 3;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(36, 16);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(197, 39);
+            this.textBox1.TabIndex = 0;
+            this.textBox1.Text = "Prescription";
+            // 
+            // panel30
+            // 
+            this.panel30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(210)))), ((int)(((byte)(179)))));
+            this.panel30.Controls.Add(this.pres_edit_form);
+            this.panel30.Controls.Add(this.save);
+            this.panel30.Controls.Add(this.button13);
+            this.panel30.Location = new System.Drawing.Point(40, 94);
+            this.panel30.Margin = new System.Windows.Forms.Padding(2);
+            this.panel30.Name = "panel30";
+            this.panel30.Size = new System.Drawing.Size(891, 602);
+            this.panel30.TabIndex = 2;
+            this.panel30.Paint += new System.Windows.Forms.PaintEventHandler(this.panel30_Paint);
+            // 
+            // save
+            // 
+            this.save.Location = new System.Drawing.Point(690, 551);
+            this.save.Margin = new System.Windows.Forms.Padding(2);
+            this.save.Name = "save";
+            this.save.Size = new System.Drawing.Size(88, 42);
+            this.save.TabIndex = 4;
+            this.save.Text = "Save";
+            this.save.UseVisualStyleBackColor = true;
+            this.save.Click += new System.EventHandler(this.save_Click);
+            // 
+            // button13
+            // 
+            this.button13.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button13.Location = new System.Drawing.Point(792, 551);
+            this.button13.Margin = new System.Windows.Forms.Padding(2);
+            this.button13.Name = "button13";
+            this.button13.Size = new System.Drawing.Size(88, 42);
+            this.button13.TabIndex = 3;
+            this.button13.Text = "Print";
+            this.button13.UseVisualStyleBackColor = true;
+            // 
+            // flowLayoutPanel2
+            // 
+            this.flowLayoutPanel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(210)))), ((int)(((byte)(179)))));
+            this.flowLayoutPanel2.Controls.Add(this.panel32);
+            this.flowLayoutPanel2.Controls.Add(this.panel33);
+            this.flowLayoutPanel2.Controls.Add(this.results);
+            this.flowLayoutPanel2.Location = new System.Drawing.Point(944, 34);
+            this.flowLayoutPanel2.Margin = new System.Windows.Forms.Padding(2);
+            this.flowLayoutPanel2.Name = "flowLayoutPanel2";
+            this.flowLayoutPanel2.Size = new System.Drawing.Size(412, 653);
+            this.flowLayoutPanel2.TabIndex = 0;
+            // 
+            // panel32
+            // 
+            this.panel32.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.panel32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(173)))), ((int)(((byte)(155)))));
+            this.panel32.Controls.Add(this.textBox2);
+            this.panel32.Location = new System.Drawing.Point(2, 2);
+            this.panel32.Margin = new System.Windows.Forms.Padding(2);
+            this.panel32.Name = "panel32";
+            this.panel32.Size = new System.Drawing.Size(410, 58);
+            this.panel32.TabIndex = 0;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox2.ForeColor = System.Drawing.SystemColors.InfoText;
+            this.textBox2.Location = new System.Drawing.Point(52, 11);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(242, 37);
+            this.textBox2.TabIndex = 1;
+            this.textBox2.Text = "Check Availability";
+            // 
+            // panel33
+            // 
+            this.panel33.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.panel33.BackColor = System.Drawing.Color.White;
+            this.panel33.Controls.Add(this.searchbtn);
+            this.panel33.Controls.Add(this.search);
+            this.panel33.Location = new System.Drawing.Point(2, 64);
+            this.panel33.Margin = new System.Windows.Forms.Padding(2);
+            this.panel33.Name = "panel33";
+            this.panel33.Size = new System.Drawing.Size(410, 58);
+            this.panel33.TabIndex = 2;
+            // 
+            // searchbtn
+            // 
+            this.searchbtn.Image = ((System.Drawing.Image)(resources.GetObject("searchbtn.Image")));
+            this.searchbtn.Location = new System.Drawing.Point(362, 2);
+            this.searchbtn.Margin = new System.Windows.Forms.Padding(2);
+            this.searchbtn.Name = "searchbtn";
+            this.searchbtn.Size = new System.Drawing.Size(46, 42);
+            this.searchbtn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.searchbtn.TabIndex = 3;
+            this.searchbtn.TabStop = false;
+            this.searchbtn.Click += new System.EventHandler(this.searchbtn_Click);
+            // 
+            // search
+            // 
+            this.search.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.search.ForeColor = System.Drawing.SystemColors.WindowFrame;
+            this.search.Location = new System.Drawing.Point(18, 6);
+            this.search.Margin = new System.Windows.Forms.Padding(2);
+            this.search.Name = "search";
+            this.search.Size = new System.Drawing.Size(340, 37);
+            this.search.TabIndex = 1;
+            this.search.TextChanged += new System.EventHandler(this.search_TextChanged);
+            // 
+            // pres_edit_form
+            // 
+            this.pres_edit_form.Location = new System.Drawing.Point(0, 0);
+            this.pres_edit_form.Name = "pres_edit_form";
+            this.pres_edit_form.Size = new System.Drawing.Size(891, 543);
+            this.pres_edit_form.TabIndex = 5;
+            this.pres_edit_form.Text = "";
+            this.pres_edit_form.TextChanged += new System.EventHandler(this.pres_edit_form_TextChanged);
+            // 
+            // results
+            // 
+            this.results.Location = new System.Drawing.Point(3, 127);
+            this.results.Name = "results";
+            this.results.Size = new System.Drawing.Size(407, 512);
+            this.results.TabIndex = 6;
+            this.results.Text = "";
+            // 
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -1516,16 +1526,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.dashboard.ResumeLayout(false);
             this.dashboard.PerformLayout();
-            this.pres_edit.ResumeLayout(false);
-            this.panel11.ResumeLayout(false);
-            this.panel11.PerformLayout();
-            this.panel30.ResumeLayout(false);
-            this.flowLayoutPanel2.ResumeLayout(false);
-            this.panel32.ResumeLayout(false);
-            this.panel32.PerformLayout();
-            this.panel33.ResumeLayout(false);
-            this.panel33.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.searchbtn)).EndInit();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.panel4.ResumeLayout(false);
             this.panel10.ResumeLayout(false);
             this.panel10.PerformLayout();
@@ -1589,6 +1590,17 @@
             this.log.PerformLayout();
             this.panel29.ResumeLayout(false);
             this.panel29.PerformLayout();
+            this.pres_edit.ResumeLayout(false);
+            this.panel11.ResumeLayout(false);
+            this.panel11.PerformLayout();
+            this.panel30.ResumeLayout(false);
+            this.flowLayoutPanel2.ResumeLayout(false);
+            this.panel32.ResumeLayout(false);
+            this.panel32.PerformLayout();
+            this.panel33.ResumeLayout(false);
+            this.panel33.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.searchbtn)).EndInit();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.ResumeLayout(false);
 
         }

@@ -32,18 +32,22 @@
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.AppointmentButton = new System.Windows.Forms.Button();
             this.PatientHistoryButton = new System.Windows.Forms.Button();
             this.DashboardButton = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.history = new System.Windows.Forms.Panel();
+            this.Delete = new System.Windows.Forms.Button();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.SearchButton = new System.Windows.Forms.Button();
             this.SearchTextBox = new System.Windows.Forms.TextBox();
             this.panel4 = new System.Windows.Forms.Panel();
             this.label5 = new System.Windows.Forms.Label();
             this.panel10 = new System.Windows.Forms.Panel();
-            this.Delete = new System.Windows.Forms.Button();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.PatientHistoryDataGridView = new System.Windows.Forms.DataGridView();
             this.Edit = new System.Windows.Forms.Button();
             this.booking = new System.Windows.Forms.Panel();
@@ -76,13 +80,7 @@
             this.panel11 = new System.Windows.Forms.Panel();
             this.dataGridView3 = new System.Windows.Forms.DataGridView();
             this.label2 = new System.Windows.Forms.Label();
-            this.logout = new System.Windows.Forms.Panel();
-            this.panel20 = new System.Windows.Forms.Panel();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.panel3.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -100,8 +98,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel11.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
-            this.logout.SuspendLayout();
-            this.panel20.SuspendLayout();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.SuspendLayout();
             // 
             // panel3
@@ -135,7 +132,8 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(173)))), ((int)(((byte)(155)))));
-            this.panel1.Controls.Add(this.linkLabel1);
+            this.panel1.Controls.Add(this.button1);
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.panel1.Controls.Add(this.pictureBox4);
             this.panel1.Controls.Add(this.AppointmentButton);
             this.panel1.Controls.Add(this.PatientHistoryButton);
@@ -146,6 +144,19 @@
             this.panel1.Size = new System.Drawing.Size(448, 1025);
             this.panel1.TabIndex = 31;
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(173)))), ((int)(((byte)(155)))));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(138, 820);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(105, 45);
+            this.button1.TabIndex = 7;
+            this.button1.Text = "Logout";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             // pictureBox4
             // 
             this.pictureBox4.BackgroundImage = global::AFC.Properties.Resources.Screenshot_2025_03_10_205304_removebg_preview;
@@ -218,6 +229,18 @@
             this.history.Size = new System.Drawing.Size(1420, 795);
             this.history.TabIndex = 36;
             // 
+            // Delete
+            // 
+            this.Delete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(173)))), ((int)(((byte)(155)))));
+            this.Delete.ForeColor = System.Drawing.Color.White;
+            this.Delete.Location = new System.Drawing.Point(1226, 724);
+            this.Delete.Name = "Delete";
+            this.Delete.Size = new System.Drawing.Size(105, 45);
+            this.Delete.TabIndex = 7;
+            this.Delete.Text = "Delete";
+            this.Delete.UseVisualStyleBackColor = false;
+            // 
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             // SearchButton
             // 
             this.SearchButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(173)))), ((int)(((byte)(155)))));
@@ -270,18 +293,7 @@
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(1427, 808);
             this.panel10.TabIndex = 40;
-            this.panel10.Paint += new System.Windows.Forms.PaintEventHandler(this.panel10_Paint);
-            // 
-            // Delete
-            // 
-            this.Delete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(173)))), ((int)(((byte)(155)))));
-            this.Delete.ForeColor = System.Drawing.Color.White;
-            this.Delete.Location = new System.Drawing.Point(1226, 724);
-            this.Delete.Name = "Delete";
-            this.Delete.Size = new System.Drawing.Size(105, 45);
-            this.Delete.TabIndex = 7;
-            this.Delete.Text = "Delete";
-            this.Delete.UseVisualStyleBackColor = false;
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             // 
             // PatientHistoryDataGridView
             // 
@@ -652,86 +664,7 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "DOCTORS";
             // 
-            // logout
-            // 
-            this.logout.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(173)))), ((int)(((byte)(155)))));
-            this.logout.Controls.Add(this.panel20);
-            this.logout.Controls.Add(this.label22);
-            this.logout.Location = new System.Drawing.Point(634, 347);
-            this.logout.Name = "logout";
-            this.logout.Size = new System.Drawing.Size(631, 331);
-            this.logout.TabIndex = 93;
-            // 
-            // panel20
-            // 
-            this.panel20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(210)))), ((int)(((byte)(179)))));
-            this.panel20.Controls.Add(this.button9);
-            this.panel20.Controls.Add(this.button8);
-            this.panel20.Controls.Add(this.label23);
-            this.panel20.Location = new System.Drawing.Point(27, 28);
-            this.panel20.Name = "panel20";
-            this.panel20.Size = new System.Drawing.Size(578, 277);
-            this.panel20.TabIndex = 92;
-            // 
-            // button9
-            // 
-            this.button9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(210)))), ((int)(((byte)(179)))));
-            this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button9.ForeColor = System.Drawing.Color.White;
-            this.button9.Location = new System.Drawing.Point(331, 156);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(147, 63);
-            this.button9.TabIndex = 91;
-            this.button9.Text = "NO";
-            this.button9.UseVisualStyleBackColor = false;
-            this.button9.Click += new System.EventHandler(this.button9_Click);
-            // 
-            // button8
-            // 
-            this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(210)))), ((int)(((byte)(179)))));
-            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.ForeColor = System.Drawing.Color.White;
-            this.button8.Location = new System.Drawing.Point(100, 158);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(147, 63);
-            this.button8.TabIndex = 90;
-            this.button8.Text = "YES";
-            this.button8.UseVisualStyleBackColor = false;
-            this.button8.Click += new System.EventHandler(this.button8_Click_1);
-            // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
-            this.label23.ForeColor = System.Drawing.Color.White;
-            this.label23.Location = new System.Drawing.Point(60, 73);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(466, 32);
-            this.label23.TabIndex = 61;
-            this.label23.Text = "Are you sure you want to log out?";
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
-            this.label22.ForeColor = System.Drawing.Color.White;
-            this.label22.Location = new System.Drawing.Point(66, 45);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(466, 32);
-            this.label22.TabIndex = 61;
-            this.label22.Text = "Are you sure you want to log out?";
-            // 
-            // linkLabel1
-            // 
-            this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(162, 911);
-            this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(59, 20);
-            this.linkLabel1.TabIndex = 13;
-            this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "Logout";
-            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
-            // 
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             // FormAppointments
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -739,7 +672,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(245)))), ((int)(((byte)(230)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1898, 1024);
-            this.Controls.Add(this.logout);
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
@@ -755,7 +688,7 @@
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
             this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.history.ResumeLayout(false);
@@ -777,10 +710,7 @@
             this.panel11.ResumeLayout(false);
             this.panel11.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
-            this.logout.ResumeLayout(false);
-            this.logout.PerformLayout();
-            this.panel20.ResumeLayout(false);
-            this.panel20.PerformLayout();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
             this.ResumeLayout(false);
 
         }
@@ -828,19 +758,15 @@
         private System.Windows.Forms.TextBox AppointmentFeeTextBox;
         private System.Windows.Forms.Label AppointmentFee;
         private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.Button button1;
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
         private System.Windows.Forms.Panel panel11;
         private System.Windows.Forms.DataGridView dataGridView3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.LinkLabel linkLabel1;
-        private System.Windows.Forms.Panel logout;
-        private System.Windows.Forms.Panel panel20;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Label label22;
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
     }
 }
 

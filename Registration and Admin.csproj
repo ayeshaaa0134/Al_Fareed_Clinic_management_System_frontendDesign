@@ -100,12 +100,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Dashboard-dr.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Dashboard-dr.Designer.cs">
       <DependentUpon>Dashboard-dr.cs</DependentUpon>
     </Compile>
+=======
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
     <Compile Include="FormAppointments.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -132,9 +135,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <EmbeddedResource Include="Dashboard-dr.resx">
       <DependentUpon>Dashboard-dr.cs</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
     <EmbeddedResource Include="FormAppointments.resx">
       <DependentUpon>FormAppointments.cs</DependentUpon>
     </EmbeddedResource>

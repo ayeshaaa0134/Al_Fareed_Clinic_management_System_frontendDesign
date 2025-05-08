@@ -22,7 +22,7 @@ namespace Recepioant
             history.Hide();
             booking.Hide();
             LoadAllAppointments(); // Load all appointments on form load
-            logout.Hide();
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -405,31 +405,7 @@ namespace Recepioant
 
         }
 
-        private void panel10_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            logout.Show();
-            logout.BringToFront();
-        }
-
-        private void button8_Click_1(object sender, EventArgs e)
-        {
-            Form3 variable = new Form3();
-            variable.Show();
-            this.Close();
-
-
-        }
-
-        private void button9_Click(object sender, EventArgs e)
-        {
-            logout.Hide();
-        }
-
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
 
 
         // ... (rest of your existing methods) ...

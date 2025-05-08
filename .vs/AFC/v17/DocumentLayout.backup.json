@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\AL-FAREED\\",
   "Documents": [
     {
@@ -32,6 +33,28 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|C:\\Users\\hp\\Desktop\\AL-FAREED\\formappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\authentication (f3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|solutionrelative:authentication (f3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|c:\\users\\hp\\desktop\\db projects\\afc\\formappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|solutionrelative:formappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|c:\\users\\hp\\desktop\\db projects\\afc\\authentication (f3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|solutionrelative:authentication (f3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\formappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|solutionrelative:formappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|c:\\users\\hp\\desktop\\db projects\\afc\\formappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
       "RelativeMoniker": "D:0:0:{35D89304-05AD-42C3-885C-872ADEE6B980}|Registration and Admin.csproj|solutionrelative:formappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,15 +65,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
+=======
+          "SelectedChildIndex": 4,
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FormAppointments.cs [Design]",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\AL-FAREED\\FormAppointments.cs",
               "RelativeDocumentMoniker": "FormAppointments.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\AL-FAREED\\FormAppointments.cs [Design]",
+=======
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\FormAppointments.cs",
+              "RelativeDocumentMoniker": "FormAppointments.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\FormAppointments.cs [Design]",
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
               "RelativeToolTip": "FormAppointments.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T19:23:27.376Z",
@@ -59,6 +92,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "FormAppointments.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\AL-FAREED\\FormAppointments.cs",
@@ -66,12 +100,22 @@
               "ToolTip": "C:\\Users\\hp\\Desktop\\AL-FAREED\\FormAppointments.cs",
               "RelativeToolTip": "FormAppointments.cs",
               "ViewState": "AgIAAJoBAAAAAAAAAAAAAKwBAAAaAAAAAAAAAA==",
+=======
+              "DocumentIndex": 3,
+              "Title": "FormAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\FormAppointments.cs",
+              "RelativeDocumentMoniker": "FormAppointments.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\FormAppointments.cs",
+              "RelativeToolTip": "FormAppointments.cs",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAewJMBAAAAAAAAAAAAAA==",
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T19:35:09.832Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "admin (f7).cs [Design]",
@@ -84,11 +128,14 @@
               "EditorCaption": " [Design]"
             },
             {
+=======
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "Authentication (f3).cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\AL-FAREED\\Authentication (f3).cs",
@@ -96,12 +143,22 @@
               "ToolTip": "C:\\Users\\hp\\Desktop\\AL-FAREED\\Authentication (f3).cs",
               "RelativeToolTip": "Authentication (f3).cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAkwFEAAAA0AAAAAAAAAA==",
+=======
+              "DocumentIndex": 2,
+              "Title": "Authentication (f3).cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\Authentication (f3).cs",
+              "RelativeDocumentMoniker": "Authentication (f3).cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\Authentication (f3).cs",
+              "RelativeToolTip": "Authentication (f3).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAMAAAAAAAAAA==",
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T07:28:14.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "Dashboard-dr.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\AL-FAREED\\Dashboard-dr.cs",
@@ -123,10 +180,21 @@
               "RelativeToolTip": "Dashboard-dr.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T06:13:42.599Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "Authentication (f3).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\Authentication (f3).cs",
+              "RelativeDocumentMoniker": "Authentication (f3).cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\Authentication (f3).cs [Design]",
+              "RelativeToolTip": "Authentication (f3).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:48:33.102Z",
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "Authentication (f3).cs [Design]",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\AL-FAREED\\Authentication (f3).cs",
@@ -143,6 +211,13 @@
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\AL-FAREED\\FormAppointments.Designer.cs",
               "RelativeDocumentMoniker": "FormAppointments.Designer.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\AL-FAREED\\FormAppointments.Designer.cs",
+=======
+              "DocumentIndex": 4,
+              "Title": "FormAppointments.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\FormAppointments.Designer.cs",
+              "RelativeDocumentMoniker": "FormAppointments.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DB Projects\\AFC\\FormAppointments.Designer.cs",
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
               "RelativeToolTip": "FormAppointments.Designer.cs",
               "ViewState": "AgIAAJwAAAAAAAAAAAAhwKMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

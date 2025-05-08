@@ -41,9 +41,12 @@ build/
 *.swp
 *.bak
 *.tmp
+<<<<<<< HEAD
 
 
 # Ignore build artifacts
 obj/
 bin/
 *.cache
+=======
+>>>>>>> e111cfcbd7bd3aa7afc50e1367b47ae81b920b06
