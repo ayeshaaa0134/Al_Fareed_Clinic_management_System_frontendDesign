@@ -1,0 +1,43 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Node modules (for JS/React projects)
+node_modules/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Compiled files
+*.out
+*.class
+
+# Build
+dist/
+build/
+
+# Environment Variables
+.env
+
+# Misc
+*.swp
+*.bak
+*.tmp

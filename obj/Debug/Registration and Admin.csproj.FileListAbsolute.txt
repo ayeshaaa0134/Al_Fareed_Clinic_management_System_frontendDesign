@@ -1,0 +1,140 @@
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\AFC.exe.config
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\AFC.exe
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\AFC.pdb
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\Registration and Admin.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.Form2.resources
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.Form3.resources
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.Form7.resources
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.Properties.Resources.resources
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\Registration and Admin.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\Registration and Admin.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.exe
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.pdb
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\MySql.Data.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\ZstdSharp.dll
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\Google.Protobuf.pdb
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\Google.Protobuf.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\MySql.Data.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Buffers.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Memory.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\Registra.E335CDDF.Up2Date
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\Recepioant.FormAppointments.resources
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\AFC.exe.config
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\AFC.exe
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\AFC.pdb
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\MySql.Data.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\ZstdSharp.dll
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\Google.Protobuf.pdb
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\Google.Protobuf.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\MySql.Data.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Buffers.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Memory.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\Registration and Admin.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\database_project.Form1.resources
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\Recepioant.FormAppointments.resources
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\AFC.Form2.resources
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\AFC.Form3.resources
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\AFC.Form7.resources
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\AFC.Properties.Resources.resources
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\Registration and Admin.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\Registration and Admin.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\Registra.E335CDDF.Up2Date
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\AFC.exe
+C:\Users\hp\Desktop\Al_Fareed_Clinic_management_System_frontendDesign-master\obj\Debug\AFC.pdb
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\AFC.exe.config
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\AFC.exe
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\AFC.pdb
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\MySql.Data.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\ZstdSharp.dll
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\Google.Protobuf.pdb
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\Google.Protobuf.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\MySql.Data.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Buffers.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Memory.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\AL-FAREED\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\Registration and Admin.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\database_project.Form1.resources
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\Recepioant.FormAppointments.resources
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\AFC.Form2.resources
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\AFC.Form3.resources
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\AFC.Form7.resources
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\AFC.Properties.Resources.resources
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\Registration and Admin.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\Registration and Admin.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\Registra.E335CDDF.Up2Date
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\AFC.exe
+C:\Users\hp\Desktop\AL-FAREED\obj\Debug\AFC.pdb

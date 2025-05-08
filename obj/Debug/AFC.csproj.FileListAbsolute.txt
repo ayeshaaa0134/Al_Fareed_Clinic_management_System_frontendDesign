@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\AFC.exe.config
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\AFC.exe
+C:\Users\hp\Desktop\DB Projects\AFC\bin\Debug\AFC.pdb
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.Properties.Resources.resources
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.exe
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.pdb
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.Form2.resources
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.Form3.resources
+C:\Users\hp\Desktop\DB Projects\AFC\obj\Debug\AFC.Form7.resources
