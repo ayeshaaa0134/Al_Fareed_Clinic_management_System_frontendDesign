@@ -41,3 +41,9 @@ build/
 *.swp
 *.bak
 *.tmp
+
+
+# Ignore build artifacts
+obj/
+bin/
+*.cache
