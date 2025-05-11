@@ -100,11 +100,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dashboard-dr.cs">
+    <Compile Include="Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Dashboard-dr.Designer.cs">
-      <DependentUpon>Dashboard-dr.cs</DependentUpon>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
     </Compile>
     <Compile Include="FormAppointments.cs">
       <SubType>Form</SubType>
@@ -112,40 +112,40 @@
     <Compile Include="FormAppointments.Designer.cs">
       <DependentUpon>FormAppointments.cs</DependentUpon>
     </Compile>
-    <Compile Include="splash %28f2%29.cs">
+    <Compile Include="splash.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="splash %28f2%29.Designer.cs">
-      <DependentUpon>splash %28f2%29.cs</DependentUpon>
+    <Compile Include="splash.Designer.cs">
+      <DependentUpon>splash.cs</DependentUpon>
     </Compile>
-    <Compile Include="Authentication %28f3%29.cs">
+    <Compile Include="Authentication.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Authentication %28f3%29.Designer.cs">
-      <DependentUpon>Authentication %28f3%29.cs</DependentUpon>
+    <Compile Include="Authentication.Designer.cs">
+      <DependentUpon>Authentication.cs</DependentUpon>
     </Compile>
-    <Compile Include="admin %28f7%29.cs">
+    <Compile Include="admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="admin %28f7%29.Designer.cs">
-      <DependentUpon>admin %28f7%29.cs</DependentUpon>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Dashboard-dr.resx">
-      <DependentUpon>Dashboard-dr.cs</DependentUpon>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormAppointments.resx">
       <DependentUpon>FormAppointments.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="splash %28f2%29.resx">
-      <DependentUpon>splash %28f2%29.cs</DependentUpon>
+    <EmbeddedResource Include="splash.resx">
+      <DependentUpon>splash.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Authentication %28f3%29.resx">
-      <DependentUpon>Authentication %28f3%29.cs</DependentUpon>
+    <EmbeddedResource Include="Authentication.resx">
+      <DependentUpon>Authentication.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="admin %28f7%29.resx">
-      <DependentUpon>admin %28f7%29.cs</DependentUpon>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
