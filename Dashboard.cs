@@ -451,7 +451,6 @@ namespace database_project
             using (MySqlConnection conn = new MySqlConnection(connectionstring))
             {
                 await conn.OpenAsync();
-
                 using (MySqlCommand cmd = new MySqlCommand(query, conn))
                 {
                     object result = await cmd.ExecuteScalarAsync();
