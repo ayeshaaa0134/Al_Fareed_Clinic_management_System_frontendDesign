@@ -7,6 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -443,24 +444,36 @@ namespace database_project
         private async Task<string> GetMostCommonDiagnosisAsync()
         {
             string mostCommonDiagnosis = "";
-            string query = "SELECT diagnosis, COUNT(*) AS freq " +
-                    "FROM medical_history " +
-                    "GROUP BY diagnosis " +
-                    "ORDER BY freq DESC " +
-                    "LIMIT 1";
-            using (MySqlConnection conn = new MySqlConnection(connectionstring))
+            string query = " ";
+            if (Time == "Daily")
             {
-                await conn.OpenAsync();
-                using (MySqlCommand cmd = new MySqlCommand(query, conn))
+                query = "SELECT diagnosis, COUNT(*) AS frequency FROM medical_history WHERE DATE(visit_date) = CURRENT_DATE GROUP BY diagnosis ORDER BY frequency DESC LIMIT 1";
+            }
+            else if (Time == "Weekly")
+            {
+                query = "SELECT diagnosis, COUNT(*) AS frequency FROM medical_history WHERE YEARWEEK(visit_date, 1) = YEARWEEK(CURDATE(), 1) GROUP BY diagnosis ORDER BY frequency DESC LIMIT 1;"; 
+            }
+            else if (Time == "Monthly")
+            {
+                query = "SELECT diagnosis, COUNT(*) AS frequency FROM medical_history WHERE YEAR(visit_date) = YEAR(CURDATE()) AND MONTH(visit_date) = MONTH(CURDATE()) GROUP BY diagnosis ORDER BY frequency DESC LIMIT 1;";
+            }
+                using (MySqlConnection conn = new MySqlConnection(connectionstring))
                 {
-                    object result = await cmd.ExecuteScalarAsync();
-                    if (result != null)
+                    await conn.OpenAsync();
+                    using (MySqlCommand cmd = new MySqlCommand(query, conn))
                     {
-                        // If there is a result, fetch the most common diagnosis name
-                        mostCommonDiagnosis = result.ToString();
+                        object result = await cmd.ExecuteScalarAsync();
+                        if (result != null)
+                        {
+                            // If there is a result, fetch the most common diagnosis name
+                            mostCommonDiagnosis = result.ToString();
+                        }
+                        if (result == null)
+                        {
+                        c_cases.Text = "0";
+                        }
                     }
                 }
-            }
 
             return mostCommonDiagnosis;
         }
@@ -470,15 +483,12 @@ namespace database_project
         {
            Time = "Daily";
             await UpdateData();
-           
         }
 
         private async void button7_Click(object sender, EventArgs e)
         {
             Time = "Weekly";
             await UpdateData();
-            
-
         }
 
         private async void button6_Click(object sender, EventArgs e)
@@ -500,7 +510,7 @@ namespace database_project
 
                 // Get the most common diagnosis
                 string commonDiagnosis = await GetMostCommonDiagnosisAsync();
-               c_cases.Text = commonDiagnosis;  // Update the most common diagnosis label (you'll need to create this label in your UI)
+                c_cases.Text = commonDiagnosis.ToString();  // Update the most common diagnosis label (you'll need to create this label in your UI)
             }
             catch (Exception ex)
             {
@@ -646,28 +656,14 @@ namespace database_project
             }
         }
 
-        
-
-        private void search_TextChanged(object sender, EventArgs e)
+        private void search_TextChanged_1(object sender, EventArgs e)
         {
             SearchMedicine(search.Text.Trim());
         }
 
-        private void searchbtn_Click(object sender, EventArgs e)
+        private void searchbtn_Click_1(object sender, EventArgs e)
         {
             SearchMedicine(search.Text.Trim());
         }
-
-        private void pres_edit_form_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel9_Paint_1(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        
     }
 }

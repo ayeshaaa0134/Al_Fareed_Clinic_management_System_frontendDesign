@@ -153,6 +153,16 @@ namespace AFC.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_wheelchair_1001 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-wheelchair-1001", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap multiply_2_512 {
             get {
                 object obj = ResourceManager.GetObject("multiply-2-512", resourceCulture);
